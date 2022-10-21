@@ -2,8 +2,12 @@
 I am a master student at Heidelberg University. \
 I work on computer vision problems. My interest includes explainable AI, deep metric and representation learning and their interdisciplinary applications
 
-## Projects
-Hackathon bias free AI by IBM\
+### Projects
+Bachelor Thesis: _"Conditional Similarity Learning for Multilabel Classification of Medical Images"_ 
+supervised by Prof. Ommer [(Machine Vision and Learning Group)](https://ommer-lab.com).
+
+Hackathon challenge _"Bias Free AI"_ by IBM at Q Summit in Mannheim.
+
 Eigenfaces R package \
 Galaxy Detection
 
