@@ -1,7 +1,11 @@
 # About Me
-I am a master student at Heidelberg University.
+I am a master student at Heidelberg University. \
+I work on computer vision problems. My interest includes explainable AI, deep metric and representation learning and their interdisciplinary applications
 
-
+## Projects
+Hackathon bias free AI by IBM\
+Eigenfaces R package \
+Galaxy Detection
 
 
 

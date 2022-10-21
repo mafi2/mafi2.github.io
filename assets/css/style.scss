@@ -4,7 +4,10 @@
 @import "{{ site.theme }}";
 
 h8 {
+  color: #000000;
   line-height:1.1;
   margin:0 0 20px;
   font-size:28px;
+  font-weight: bold;
+  text-align: center;
 }
