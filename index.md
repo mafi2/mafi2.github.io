@@ -7,7 +7,7 @@ Hackathon bias free AI by IBM\
 Eigenfaces R package \
 Galaxy Detection
 
-Resume Placeholder
+<a href="https://mafi2.github.io/files/Resume.pdf" target="_blank"><span class="uk-icon link-text" uk-icon="icon: file-pdf; ratio: 1"></span><span class="link-text">Resume [PDF]</span></a>
 
 
 
