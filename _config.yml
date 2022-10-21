@@ -1,6 +1,6 @@
 title: Marcel Fischer
 remote_theme: pages-themes/minimal@v0.2.0
 description: Test, test, test
-logo: /files/profile_pic_white_back.png
+logo: /files/profile_pic_white_back_smaller_quadratic.png
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
