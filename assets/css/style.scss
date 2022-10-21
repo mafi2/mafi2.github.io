@@ -2,7 +2,7 @@
 ---
 
 header {
-  width:200px;
+  width:270px;
   #float:left;
   text-align:center;
   position:fixed;
@@ -14,8 +14,15 @@ header {
 h8 {
   color: #000000;
   line-height: 1.1;
-  margin: 70px 0px 70px 0px;
+  margin: 40px 0px 40px 0px;
   font-size: 28px;
   font-weight: bold;
   text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
