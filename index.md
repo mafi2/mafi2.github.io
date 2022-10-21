@@ -18,12 +18,12 @@ Hackathon challenge: _"Bias Free AI"_ by IBM at Q Summit in Mannheim
 * Used machine learning techniques such as k means clustering and k nearest neighbor classification
 * Won 2nd place
 
-University project: _Galaxy Detection and Classification in the Hubble Deep Field_
+University project: _"Galaxy Detection and Classification in the Hubble Deep Field"_
 * Trained CNN to classify 10 different galaxy types
 * Performed classification with accuracy of 86%
 * Designed end-to-end approach to detect and classify galaxies in images of the Hubble Deep Field
 
-University project: Create _Eigenfaces_ R package
+University project: _"Eigenfaces"_ R package
 * Created R package in a team of 3 that enables simple principal component analysis for different dataset such as human faces
 * Tested and wrote extensive documentation
 * Implemented interactive shiny application
