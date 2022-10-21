@@ -26,3 +26,12 @@ h8 {
   margin-right: auto;
   width: 70%;
 }
+
+.button {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.uk-hover:hover {
+    transform: scale(1.3);
+}
