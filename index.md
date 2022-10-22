@@ -1,6 +1,6 @@
 ### About Me
 I am a master student at Heidelberg University. \
-I work on computer vision problems. My interest includes explainable AI, deep metric and representation learning and their interdisciplinary applications.
+I work on computer vision problems. My interests include explainable AI, deep metric and representation learning and their interdisciplinary applications.
 
 <a href="https://mafi2.github.io/files/Resume.pdf" target="_blank"><span class="uk-icon link-text" uk-icon="icon: file-pdf; ratio: 1"></span><span class="link-text">Resume [PDF]</span></a>
 
@@ -11,7 +11,7 @@ Bachelor Thesis: _"Conditional Similarity Learning for Multilabel Classification
 supervised by Prof. Ommer [(Machine Vision and Learning Group)](https://ommer-lab.com).
 * Created new deep metric learning approach to classify thorax diseases using Tensorflow
 * Made it possible to learn about the similarity of disease by creating a disentangled representation space
-* Increased classification ROC AUC score by 6% 
+* Increased classification ROC AUC score by 6% over the baseline
 
 Hackathon challenge: _"Bias Free AI"_ by IBM at Q Summit in Mannheim
 * Implemented efficient algorithm in python to solve the problem of a *fair* assignment of teachers to a school
