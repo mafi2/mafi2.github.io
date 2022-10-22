@@ -42,7 +42,7 @@ teachers to a cluster (via kNN), then balancing staffing between clusters with r
 This approach won the 2nd place for the challenge presented by IBM.
 </p>
 
-Applied machine learning techniques: k-means clustering, kNN classification
+Applied machine learning techniques: k-means clustering, kNN classification \
 Programming language and frameworks: Python, scikit-learn
 
 ---
@@ -69,7 +69,7 @@ Programming language and frameworks: Python, PyTorch, NumPy
 Project for the "Programming Language R and its Applications" course at Heidelberg University (Jul. 2020)
 
 <p style='text-align: justify;'>
-This Project contains the principle component analysis on a large set of images of different human faces (here: Olivetti Dataset).
+This project contains the principle component analysis on a large set of images of different human faces (here: Olivetti Dataset).
 The derived eigenvectors are called eigenfaces, hence the project name. Methods like this can be used for human face recognition.
 More details can be found in the read me of the following
 <a href="https://github.com/Osburg/eigenfaces" ><span class="uk-icon link-text" uk-icon="icon: github-alt; ratio: 1"></span><span class="link-text"> github repository</span></a>.
