@@ -6,7 +6,8 @@ Bachelor Thesis supervised by Prof. Ommer at Heidelberg University (Jan. - Jul. 
 <p style='text-align: justify;'>
 This thesis follows the idea of making a neural network learn a *disentangled* embedding space for medical images 
 displaying lung diseases. The embedding space is therefore divided into one subspace per disease. This approach increases
-the classification performance and enables the NN to encompass information about the similarity of different diseases. \
+the classification performance and enables the NN to encompass information about the similarity of different diseases.
+
 The work on this project has been continued afterwards as a student assistant. The classification performance has been
 further improved and new techniques have been applied such as proxy anchor loss. The results are planned to be 
 published in the beginning of 2023.
