@@ -3,6 +3,7 @@
 #### Conditional Similarity Learning for Multilabel Classification of Medical Images
 Bachelor Thesis supervised by Prof. Ommer at Heidelberg University (Jan. - Jul. 2021)
 
+{: style="text-align: justify" }
 This thesis follows the idea of making a neural network learn a *disentangled* embedding space for medical images 
 displaying lung diseases. The embedding space is therefore divided into one subspace per disease. This approach increases
 the classification performance and enables the NN to encompass information about the similarity of different diseases. \
@@ -27,6 +28,7 @@ IEEE Conference on Computer Vision and Pattern Recognition.
 
 Applied machine learning techniques: unsupervised and supervised techniques, deep metric learning; for more see papers \
 Programming language and frameworks: Python, Tensorflow, Jax, Pandas and others
+
 ---
 
 #### Bias Free AI
@@ -40,12 +42,15 @@ Programming language and frameworks: Python, scikit-learn
 #### Galaxy Detection and Classification in the Hubble Deep Field
 Project for the "Deep Vision" Course at Heidelberg University (Jul. 2020)
 
+<p style='text-align: justify;'> Your Text 
 The problem formulation and solving was created in a team of 2. The problem can be separated into a classification and
 detection problem. For the first part of the problem a CNN has been trained with a dataset of galaxy images and labels.
 For the second part fixed-level thresholding has been performed to get bounding boxes and image cut-outs that can be fed
-into the pretrained network. The result can be seen in the following picture.
+into the pretrained network. The result can be seen in the following picture. Only a fraction of the whole image is shown.
+</p>
 
-![Hubble deep field classfication, original image by ESA/Hubble](./files/hubble_deep_field_classified_smaller.png)
+![Hubble deep field classfication, original image by ESA/Hubble](./files/hubble_deep_field_classified_cutout.png)
+<sub><sup>Original image by ESA/Hubble</sup></sub>
 
 Applied machine learning techniques: CNN classification, segmentation, bounding box approach \
 Programming language and frameworks: Python, PyTorch, NumPy
