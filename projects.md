@@ -4,10 +4,9 @@
 Bachelor Thesis supervised by Prof. Ommer at Heidelberg University (Jan. - Jul. 2021)
 
 <p style='text-align: justify;'>
-This thesis follows the idea of making a neural network learn a *disentangled* embedding space for medical images 
+This thesis follows the idea of making a neural network learn a <b>disentangled</b> embedding space for medical images 
 displaying lung diseases. The embedding space is therefore divided into one subspace per disease. This approach increases
-the classification performance and enables the NN to encompass information about the similarity of different diseases.
-
+the classification performance and enables the NN to encompass information about the similarity of different diseases. <br>
 The work on this project has been continued afterwards as a student assistant. The classification performance has been
 further improved and new techniques have been applied such as proxy anchor loss. The results are planned to be 
 published in the beginning of 2023.
@@ -39,7 +38,7 @@ Hackathon Challenge by IBM at Q-Summit Mannheim (Oct. 2021)
 This project has been implemented in a team of 3 over the course of 2 days. The focus was laid on a bias-free and fair
 approach to assign teachers to a school. This was achieved by first clustering schools (via k-means), second allocating
 teachers to a cluster (via kNN), then balancing staffing between clusters with respect to teacher and school preferences
-(e.g. rural/urban, experience...) and lastly the teachers where allocated to a specific school. \
+(e.g. rural/urban, experience...) and lastly the teachers where allocated to a specific school. <br>
 This approach won the 2nd place for the challenge presented by IBM.
 </p>
 
