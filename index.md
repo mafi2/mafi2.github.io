@@ -1,15 +1,12 @@
 ### About Me
-<p style='text-align: justify;'>
 I am a master student at Heidelberg University. \
 I work on computer vision problems. My interests include explainable AI, deep metric and representation learning and their interdisciplinary applications.
-</p>
 
 <a href="https://mafi2.github.io/files/Resume.pdf" target="_blank"><span class="uk-icon link-text" uk-icon="icon: file-pdf; ratio: 1"></span><span class="link-text">Resume [PDF]</span></a>
 
 ---
 
 ### Projects 
-<p style='text-align: justify;'>
 Bachelor Thesis: _"Conditional Similarity Learning for Multilabel Classification of Medical Images"_ 
 supervised by Prof. Ommer [(Machine Vision and Learning Group)](https://ommer-lab.com).
 * Created new deep metric learning approach to classify thorax diseases using Tensorflow
@@ -30,7 +27,6 @@ University project: _"Eigenfaces"_ R package
 * Created R package in a team of 3 that enables simple principal component analysis for different dataset such as human faces
 * Tested and wrote extensive documentation
 * Implemented interactive shiny application
-</p>
 
 <a href="https://mafi2.github.io/projects" ><span class="uk-icon link-text" uk-icon="icon: chevron-right; ratio: 1"></span><span class="link-text">Details</span></a>
 
