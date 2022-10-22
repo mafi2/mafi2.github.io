@@ -1,10 +1,10 @@
 ### Projects
 ***
 #### Conditional Similarity Learning for Multilabel Classification of Medical Images
-Bachelor Thesis supervised by Prof. Ommer at Heidelberg University (Jan. - Jul. 2021)
+Bachelor thesis supervised by Prof. Ommer at Heidelberg University (Jan. - Jul. 2021)
 
 <p style='text-align: justify;'>
-This thesis follows the idea of making a neural network learn a <b>disentangled</b> embedding space for medical images 
+This thesis follows the idea of making a neural network learn a <i>disentangled</i> embedding space for medical images 
 displaying lung diseases. The embedding space is therefore divided into one subspace per disease. This approach increases
 the classification performance and enables the NN to encompass information about the similarity of different diseases. <br>
 The work on this project has been continued afterwards as a student assistant. The classification performance has been
@@ -48,7 +48,7 @@ Programming language and frameworks: Python, scikit-learn
 ---
 
 #### Galaxy Detection and Classification in the Hubble Deep Field
-Project for the "Deep Vision" Course at Heidelberg University (Jul. 2020)
+Project for the "Deep Vision" course at Heidelberg University (Jul. 2020)
 
 <p style='text-align: justify;'>
 The problem formulation and solving was created in a team of 2. The problem can be separated into a classification and

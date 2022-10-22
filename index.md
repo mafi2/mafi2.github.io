@@ -7,16 +7,16 @@ I work on computer vision problems. My interests include explainable AI, deep me
 ---
 
 ### Projects 
-Bachelor Thesis: _"Conditional Similarity Learning for Multilabel Classification of Medical Images"_ 
+Bachelor thesis: _"Conditional Similarity Learning for Multilabel Classification of Medical Images"_ 
 supervised by Prof. Ommer [(Machine Vision and Learning Group)](https://ommer-lab.com).
 * Created new deep metric learning approach to classify thorax diseases using Tensorflow
-* Made it possible to learn about the similarity of disease by creating a disentangled representation space
+* Made it possible to learn more about the similarity of diseases by creating a <i>disentangled</i> representation space
 * Increased classification ROC AUC score by 6% over the baseline
 
 Hackathon challenge: _"Bias Free AI"_ by IBM at Q Summit in Mannheim
-* Implemented efficient algorithm in python to solve the problem of a *fair* assignment of teachers to a school
+* Implemented efficient algorithm in python to solve the problem of a <i>fair</i> assignment of teachers to a school
 * Used machine learning techniques such as k means clustering and k nearest neighbor classification
-* Won 2nd place
+* Applied solution to real world data and won 2nd place
 
 University project: _"Galaxy Detection and Classification in the Hubble Deep Field"_
 * Trained CNN to classify 10 different galaxy types
@@ -25,7 +25,7 @@ University project: _"Galaxy Detection and Classification in the Hubble Deep Fie
 
 University project: _"Eigenfaces"_ R package
 * Created R package in a team of 3 that enables simple principal component analysis for different dataset such as human faces
-* Tested and wrote extensive documentation
+* Tested package and wrote extensive documentation
 * Implemented interactive shiny application
 
 <a href="https://mafi2.github.io/projects" ><span class="uk-icon link-text" uk-icon="icon: chevron-right; ratio: 1"></span><span class="link-text">Details</span></a>
