@@ -12,13 +12,13 @@ further improved and new techniques have been applied such as proxy anchor loss.
 published in the beginning of 2023.
 </p>
 
-Most important papers that have been used or reimplemented for the bachelor thesis:
+Selection of papers that have been used or reimplemented for the bachelor thesis:
 * Wang, X. et al. *Multi-similarity loss with general pair weighting for deep metric learning.* 2019.
 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
 * Veit, A., Belongie, S., & Karaletsos, T. *Conditional similarity networks.* 2017.
 IEEE conference on computer vision and pattern recognition.
 
-Papers that have been used or reimplemented as a student assistant:
+Selection of papers that have been used or reimplemented as a student assistant:
 * Movshovitz-Attias, Y. et al. *No fuss distance metric learning using proxies.* 2017.
 IEEE International Conference on Computer Vision.
 * Iscen, A. et al. *Mining on manifolds: Metric learning without labels.* 2018.
@@ -27,12 +27,12 @@ IEEE Conference on Computer Vision and Pattern Recognition.
  Radiology, 212213.
 
 Applied machine learning techniques: unsupervised and supervised techniques, deep metric learning; for more see papers \
-Programming language and frameworks: Python, Tensorflow, Jax, Pandas and others
+Programming language and frameworks: Python, TensorFlow, Jax, Pandas and others
 
 ---
 
 #### Bias Free AI
-Hackathon Challenge by IBM at Q-Summit Mannheim (Oct. 2021)
+Hackathon challenge by IBM at Q-Summit Mannheim (Oct. 2021)
 
 <p style='text-align: justify;'>
 This project has been implemented in a team of 3 over the course of 2 days. The focus was laid on a bias-free and fair
@@ -51,7 +51,7 @@ Programming language and frameworks: Python, scikit-learn
 Project for the "Deep Vision" course at Heidelberg University (Jul. 2020)
 
 <p style='text-align: justify;'>
-The problem formulation and solving was created in a team of 2. The problem can be separated into a classification and
+The problem formulation and solution was created in a team of 2. The problem can be separated into a classification and
 detection problem. For the first part of the problem a CNN has been trained with a dataset of galaxy images and labels.
 For the second part fixed-level thresholding has been performed to get bounding boxes and image cut-outs that can be fed
 into the pretrained network. The result can be seen in the following picture. Only a fraction of the whole image is shown.
