@@ -1,5 +1,12 @@
 ### Projects
 ***
+#### Tackling Challenges and Enhancing Disease Diagnosis in Medical Imaging with Deep Metric Learning
+Master thesis supervised by Prof. Ommer at LMU Munich and Heidelberg University (Apr. 2022 - Apr. 2023)
+
+<p style='text-align: justify;'>
+For my master thesis novel machine learning approaches were created such as disease-conditioned similarity networks that lead to en par or outperforming state-of-the-art approaches. X-ray specific challenges like image variability, class imbalance, and domain shifts were addressed. The master thesis is building on the work that has been done on classifying X-ray images in my bachelor thesis.
+</p>
+
 #### Conditional Similarity Learning for Multilabel Classification of Medical Images
 Bachelor thesis supervised by Prof. Ommer at Heidelberg University (Jan. - Jul. 2021)
 
@@ -9,10 +16,10 @@ displaying lung diseases. The embedding space is therefore divided into one subs
 the classification performance and enables the NN to encompass information about the similarity of different diseases. <br>
 The work on this project has been continued afterwards as a student assistant. The classification performance has been
 further improved and new techniques have been applied such as proxy anchor loss. The results are planned to be 
-published in the beginning of 2023.
+published in 2023/2024.
 </p>
 
-Selection of papers that have been used or reimplemented for the bachelor thesis:
+Selection of papers that have been used or reimplemented for the theses:
 * Wang, X. et al. *Multi-similarity loss with general pair weighting for deep metric learning.* 2019.
 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
 * Veit, A., Belongie, S., & Karaletsos, T. *Conditional similarity networks.* 2017.
@@ -26,7 +33,7 @@ IEEE Conference on Computer Vision and Pattern Recognition.
 * Kazemzadeh, S. et al. *Deep Learning Detection of Active Pulmonary Tuberculosis at Chest Radiography Matched the Clinical Performance of Radiologists.* 2022.
  Radiology, 212213.
 
-Applied machine learning techniques: unsupervised and supervised techniques, deep metric learning; for more see papers \
+Applied machine learning techniques: unsupervised, weakly-supervised and supervised techniques, deep metric learning; for more see papers \
 Programming language and frameworks: Python, TensorFlow, Jax, Pandas and others
 
 ---

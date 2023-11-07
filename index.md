@@ -1,5 +1,4 @@
 ### About Me
-I am a master student at Heidelberg University. \
 I work on computer vision problems. My interests include explainable AI, deep metric and representation learning and their interdisciplinary applications.
 
 <a href="https://mafi2.github.io/files/Resume.pdf" target="_blank"><span class="uk-icon link-text" uk-icon="icon: file-pdf; ratio: 1"></span><span class="link-text">Resume [PDF]</span></a>
@@ -7,6 +6,14 @@ I work on computer vision problems. My interests include explainable AI, deep me
 ---
 
 ### Projects 
+
+Master thesis: _"Tackling Challenges and Enhancing Disease Diagnosis in Medical Imaging with Deep Metric Learning"_ supervised by [Prof. Ommer](https://ommer-lab.com) (LMU Munich) and [Prof. Hamprecht](https://hci.iwr.uni-heidelberg.de/ial) (University of Heidelberg)
+* Proposed a novel deep metric learning approach for classifying lung diseases in X-rays using disease-conditioned similarity networks.
+* Addressed challenges like image variability, class imbalance, and domain shifts.
+* Outperformed or on par with state-of-the-art methods.
+* Analyzed weakly-supervised and fully supervised methods, as well as different models and losses.
+
+
 Bachelor thesis: _"Conditional Similarity Learning for Multilabel Classification of Medical Images"_ 
 supervised by Prof. Ommer [(Machine Vision and Learning Group)](https://ommer-lab.com).
 * Created new deep metric learning approach to classify thorax diseases using TensorFlow
