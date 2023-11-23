@@ -5,6 +5,12 @@ I work on computer vision problems. My interests include explainable AI, deep me
 
 ---
 
+### Most Recent Work
+
+I am currently working in Roche's phc department in the Data, Analytics & Imaging group. I utilize deep learning and self-supervised methods to create cutting-edge solutions for medical image analysis and various downstream tasks in digital pathology. This role combines healthcare, product development, deep learning and bio-medical image analysis, making it a challenging and rewarding place to work. Our first results on foundational models in digital pathology will be published in 2023/24 (arXiv link will folow). Learn more about the work we do at Roche's phc [here](https://www.roche.com/about/strategy/personalised-healthcare).
+
+---
+
 ### Projects 
 
 Master thesis: _"Tackling Challenges and Enhancing Disease Diagnosis in Medical Imaging with Deep Metric Learning"_ supervised by [Prof. Ommer](https://ommer-lab.com) (LMU Munich) and [Prof. Hamprecht](https://hci.iwr.uni-heidelberg.de/ial) (University of Heidelberg)
