@@ -8,7 +8,13 @@ I work on computer vision problems. My interests include explainable AI, deep me
 ### Most Recent Work
 
 <p style='text-align: justify;'>
-I am currently working in Roche's phc department in the Data, Analytics & Imaging group. I utilize deep learning and self-supervised methods to create cutting-edge solutions for medical image analysis and various downstream tasks in digital pathology. This role combines healthcare, product development, deep learning and bio-medical image analysis, making it a challenging and rewarding place to work. Our first results on foundational models in digital pathology will be published in 2023/24 (arXiv link will follow). Learn more about the work we do at Roche's phc <a href="https://www.roche.com/about/strategy/personalised-healthcare" ><span class="link-text"> here</span></a>.</p>
+I am currently working in Roche's phc department in the Data, Analytics & Imaging group. I utilize deep learning and self-supervised methods to create cutting-edge solutions for medical image analysis and various downstream tasks in digital pathology. This role combines healthcare, product development, deep learning and bio-medical image analysis, making it a challenging and rewarding place to work. Learn more about the work we do at Roche's phc <a href="https://www.roche.com/about/strategy/personalised-healthcare" ><span class="link-text"> here</span></a>.
+Our first results on foundational models in digital pathology have been published on <a href="https://arxiv.org/abs/2311.17804"><span class="link-text">arXiv</span></a>. </p>
+
+Shorted abstract of our paper <em>Aggregation Model Hyperparameters Matter in Digital Pathology</em>:
+<p style='text-align: justify;'>
+Traditional evaluation methods in digital pathology rely on fixed aggregation model hyperparameters, a framework we identify as potentially biasing the results. Our study uncovers a co-dependence between feature extractor models, often termed foundational models, and aggregation model hyperparameters, indicating that performance comparability can be skewed based on the chosen hyperparameters. By accounting for this co-dependency, we find that the performance of many current feature extractor models is notably similar.
+</p>
 
 ---
 
