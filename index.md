@@ -20,7 +20,7 @@ Traditional evaluation methods in digital pathology rely on fixed aggregation mo
 
 ### Projects 
 
-Master thesis: _"Tackling Challenges and Enhancing Disease Diagnosis in Medical Imaging with Deep Metric Learning"_ supervised by [Prof. Ommer](https://ommer-lab.com) (LMU Munich) and [Prof. Hamprecht](https://hci.iwr.uni-heidelberg.de/ial) (University of Heidelberg)
+Master thesis: _"Tackling Challenges and Enhancing Disease Diagnosis in Medical Imaging with Deep Metric Learning"_ supervised by [Prof. Ommer](https://ommer-lab.com) (LMU Munich) and examined by [Prof. Hamprecht](https://hci.iwr.uni-heidelberg.de/ial) (University of Heidelberg)
 * Proposed a novel deep metric learning approach for classifying lung diseases in X-rays using disease-conditioned similarity networks.
 * Addressed challenges like image variability, class imbalance, and domain shifts.
 * Outperformed or on par with state-of-the-art methods.
